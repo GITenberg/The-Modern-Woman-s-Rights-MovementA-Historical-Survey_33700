@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36543
     wikipedia: http://de.wikipedia.org/wiki/K%C3%A4the_Schirmacher
 description: Includes bibliographical references.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33700#The-Modern-Woman-s-Rights-MovementA-Historical-Survey
 gutenberg_issued: '2010-09-10'
 gutenberg_type: Text
 identifiers:
