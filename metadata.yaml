@@ -1,0 +1,39 @@
+_repo: The-Modern-Woman-s-Rights-MovementA-Historical-Survey_33700
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Eckhardt, Carl Conrad
+    alias: Eckhardt, C. C. (Carl Conrad)
+    birthdate: 1878
+    gutenberg_agent_id: '36544'
+    url: http://www.gutenberg.org/2009/agents/36544
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schirmacher, Käthe
+    aliases:
+    - Schirmacher, Kathe
+    - Schirmacher, Kaethe
+    birthdate: 1865
+    deathdate: 1930
+    gutenberg_agent_id: '36543'
+    url: http://www.gutenberg.org/2009/agents/36543
+    wikipedia: http://de.wikipedia.org/wiki/K%C3%A4the_Schirmacher
+description: Includes bibliographical references.
+gutenberg_issued: '2010-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33700'
+  lccn: '12001074'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women''s rights'
+- !lcsh 'Women -- Social and moral questions'
+- !lcc 'HQ'
+title: 'The Modern Woman''s Rights Movement: A Historical Survey'
+url: http://www.gutenberg.org/ebooks/33700
